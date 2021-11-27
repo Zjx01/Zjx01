@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zjx01
-- 👀 I’m interested in baking and machine learning 
-- 🌱 I’m currently majored in bioinformatics
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in modelling 
+- 🌱 I'm studying Biomedical Informatics in Zhejiang University and University of Edinburgh Institute (ZJE)
+- 💞️ I’m looking to collaborate on image analysis and NGS data analysis
 - 📫 How to reach me: you can contact me through my email 318011435@zju.edu.cn
 
 
