@@ -2,7 +2,7 @@
 - 👀 **NICE TO MEET YOU ** 
 - 🌱 I studied Biomedical Informatics in Zhejiang University and University of Edinburgh Institute and pursued further study in University of Michigan-Ann Arbor.
 - 💞️ I like image analysis 
-- 📫 How to reach me: you can contact me through my email 318011435@zju.edu.cn
+- 📫 How to reach me: you can contact me through my email jesizhao@umich.edu
 
 
 
