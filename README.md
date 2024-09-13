@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jingxian Zhao, I studied Biomedical Informatics in University of Edinburgh and pursued further study in University of Michigan-Ann Arbor.
+- 👋 Hi, I studied Biomedical Informatics in University of Edinburgh and pursued further study in University of Michigan-Ann Arbor.
 - 💗 I like programming!
 
 
