@@ -1,5 +1,5 @@
 - 👋 Hi, I studied Biomedical Informatics in University of Edinburgh - Zhejiang University and pursued further study in University of Michigan-Ann Arbor.
-- 💗 I like programming!
+- 💗 Working as bioinformaticist at VCU health
 
 
 <!---
